@@ -7,7 +7,7 @@ The project has some limitatons as well as bugs thtI struggled to fix, Please re
 Feel free to donload the project, experiment with it, and use it for education purposes.
 
 ## Instruction (Plug and Play)
-THe project consists of one script to be attached to a 3D project that has no Unity Physics components.
+The project consists of one script to be attached to a 3D project that has no Unity Physics components.
 Drop the object in the scene, Lift the object up, play, and watch the object react.
 Experiment with the values to achieve a more desireable outcome.
 
