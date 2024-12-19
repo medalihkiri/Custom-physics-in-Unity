@@ -250,7 +250,7 @@ fragmentBody.velocity += impulseDirection * Mathf.Sqrt(energyPerFragment / fragm
 ```
 
 ---
-**Reverence**:
+**Reference**:
 -[rigidBodyFracture_I3D2018_preprint.pdf](https://github.com/user-attachments/files/18191568/rigidBodyFracture_I3D2018_preprint.pdf)
 -[Projet1_article.pdf](https://github.com/user-attachments/files/18191590/Projet1_article.pdf)
 
