@@ -2,7 +2,12 @@
 This project is dedicated for educational purposes. Feel Free to enjoy the experience.
     
 ## Description
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+This project was the outcome of my studies during in PhysicsEngine Module during my IT engineering studies speciialized in Game development.
+The project has some limitatons as well as bugs thtI struggled to fix, Please reach out to me if you achieved a better, more realistic behaviour.
+Feel free to donload the project, experiment with it, and use it for education purposes.
 
 ## Instruction (Plug and Play)
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+THe project consists of one script to be attached to a 3D project that has no Unity Physics components.
+Drop the object in the scene, Lift the object up, play, and watch the object react.
+Experiment with the values to achieve a more desireable outcome.
+
